@@ -49,8 +49,8 @@
 ![image](https://github.com/Raji1009/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/89059861/bf8de7aa-34a1-42d9-97b2-c9e1e5770534)
 
 
-### Name: Rajalakshmi R
-### Register Number: 23013958
+### Name: MOHAMED FAROOK S
+### Register Number: 23014058
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
